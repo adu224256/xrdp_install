@@ -6,7 +6,7 @@ xrdp auto-install shell for kali linux
 - Automatic startup xrdp
 
 ## Requirement
-- Need to enter super user mode
+- Super user mode
 
 ## How to install and setup
 1. Connect to kali linux virtual machine (using ssh or VNC)
